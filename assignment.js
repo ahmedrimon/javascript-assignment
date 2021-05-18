@@ -7,8 +7,9 @@ function kilometerToMeter(kilometer){
     return meter;
 }
 
-var meter = kilometerToMeter(1)
-console.log(meter);
+ var kilometerToMeter = kilometerToMeter(10);
+ 
+ console.log(kilometerToMeter);
 
 
 
